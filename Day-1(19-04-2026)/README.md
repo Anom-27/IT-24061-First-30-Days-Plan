@@ -1,5 +1,15 @@
 # Example 01
 ```java
+public class Car {
+    String color;
+    String model;
+    int year;
+    void displayInfo(){
+        System.out.println("Car's Color : "+color);
+        System.out.println("Car's Model : "+model);
+        System.out.println("Car's Year  : "+year);
+    }
+}
 public class Main{
     public static void main(String[] args){
   Car myCar=new Car();
@@ -12,6 +22,18 @@ public class Main{
 ```
 # Example 02
 ```java
+public class Student{
+    String name;
+    int Roll;
+    String district;
+    String Number;
+    void Show() {
+        System.out.println(name);
+        System.out.println(Roll);
+        System.out.println(district);
+        System.out.println(Number);
+    }
+}
 public class MainStudent{
     static void main(String[] args){
         Student s1=new Student();

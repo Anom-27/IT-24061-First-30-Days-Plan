@@ -9,7 +9,7 @@ This repository documents a 30-day learning plan focused on IT fundamentals and 
 ---
 
 ## Day 01
-**Topic:** Creating Class and Object
+**Topic:** Creating Class & Object
 
 **Video:**
 https://youtu.be/IWFzm8qlR1c?si=H5U8v8RDIWxkBxzG

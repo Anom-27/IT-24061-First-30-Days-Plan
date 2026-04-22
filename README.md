@@ -35,11 +35,11 @@ https://youtu.be/HZUUYnIZO_0?si=muTWbNSVXMumJNCf
 
 **Summary:**
 
-Access modifiers: public, private, protected, default
-Scope and visibility rules
-Concept of encapsulation
-Data hiding using private variables
-Getter and setter methods
+- Access modifiers: public, private, protected, default
+- Scope and visibility rules
+- Concept of encapsulation
+- Data hiding using private variables
+- Getter and setter methods
 
 ## Day 03 (21-04-2026)
 **Topic:** Constructor in Java

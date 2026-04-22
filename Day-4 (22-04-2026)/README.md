@@ -1,6 +1,5 @@
 # Example-1
-```
-java
+```java
 class Animal {
     String name;
 
@@ -31,8 +30,7 @@ class Dog extends Animal {
 }
 ```
 # Example-2
-```
-java
+```java
 class Person {
     String name;
 

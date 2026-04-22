@@ -46,7 +46,7 @@ Getter and setter methods
 
 **Video:** https://youtu.be/acfR5vRTZvc?si=MqKadnG8uppYrFpB
 
-**Code:** https://github.com/mahi-555/Mahin-21-IT24017-First-30-days-plan/tree/main/Day%203
+**Code:** https://github.com/Anom-27/IT-24061-First-30-Days-Plan/tree/main/Day-3%20(21-04-2026)
 
 **Summary:**
 

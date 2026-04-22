@@ -40,6 +40,8 @@ https://youtu.be/HZUUYnIZO_0?si=muTWbNSVXMumJNCf
 - Concept of encapsulation
 - Data hiding using private variables
 - Getter and setter methods
+  
+---
 
 ## Day 03 (21-04-2026)
 **Topic:** Constructor in Java
@@ -50,8 +52,10 @@ https://youtu.be/HZUUYnIZO_0?si=muTWbNSVXMumJNCf
 
 **Summary:**
 
-Definition of constructor
-Default vs parameterized constructor
-Constructor overloading
-Role in object initialization
+- Definition of constructor
+- Default vs parameterized constructor
+- Constructor overloading
+- Role in object initialization
+  
+---
 

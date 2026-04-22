@@ -59,3 +59,20 @@ https://youtu.be/HZUUYnIZO_0?si=muTWbNSVXMumJNCf
   
 ---
 
+## Day 04 (22-04-2026)
+**Topic:** Super Class, Subclass, Inheritance & Polymorphism
+
+**Video:** https://youtu.be/j_VA2Rp6jM0?si=7h6M2ZXkI7RR5Ifk
+https://youtu.be/bLke13zY4rg?si=jXipMVv9pdV8r7mc
+
+**Code:** https://github.com/Mohit-65-islam/IT-24065-First-30-Days-Plan/tree/main/Day-04%20(%2022-04-2026)
+
+Summary:
+
+- Superclass and subclass relationship
+- Inheritance types in Java
+- Method overriding
+- Runtime polymorphism
+- Use of super keyword
+
+---

@@ -31,7 +31,7 @@ https://github.com/Anom-27/IT-24061-First-30-Days-Plan/tree/main/Day-1(19-04-202
 **Video:** https://youtu.be/IWFzm8qlR1c?si=H5U8v8RDIWxkBxzG
 https://youtu.be/HZUUYnIZO_0?si=muTWbNSVXMumJNCf
 
-**Code:** https://github.com/mahi-555/Mahin-21-IT24017-First-30-days-plan/tree/main/Day%202
+**Code:** https://github.com/Anom-27/IT-24061-First-30-Days-Plan/tree/main/Day-2%20(20-04-2026)
 
 **Summary:**
 

@@ -76,3 +76,19 @@ Summary:
 - Use of super keyword
 
 ---
+
+## Day 05 (23-04-2026)
+**Topic:** Using Abstraction && Inner Class
+
+**Vedio:** https://youtu.be/1SXyi3DK-88?si=cnoagPnoZNdGig4S https://youtu.be/lsJ9QjJPbx8?si=G0VxAZY9m5Cmm8zQ
+
+**Code:** https://github.com/mahi-555/Mahin-21-IT24017-First-30-days-plan/tree/main/Day%2005%20(23-04-26)
+
+**Summary:**
+
+- Learned how to create classes and objects in Java
+- Understood constructor to initialize values (title, author)
+- Learned inner class concept (Library.Book) and object creation
+- Practiced encapsulation using private variables and methods
+
+---

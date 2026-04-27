@@ -82,7 +82,7 @@ Summary:
 
 **Vedio:** https://youtu.be/1SXyi3DK-88?si=cnoagPnoZNdGig4S https://youtu.be/lsJ9QjJPbx8?si=G0VxAZY9m5Cmm8zQ
 
-**Code:** https://github.com/mahi-555/Mahin-21-IT24017-First-30-days-plan/tree/main/Day%2005%20(23-04-26)
+**Code:** https://github.com/Anom-27/IT-24061-First-30-Days-Plan/tree/main/Day-5%20(23-04-2026)
 
 **Summary:**
 

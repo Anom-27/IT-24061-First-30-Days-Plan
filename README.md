@@ -115,8 +115,7 @@ Summary:
 
 **Vedio:** https://youtu.be/XDw-BkAZYmY?si=OstR1oZ3od7ZxjUa
 
-**Code:** https://github.com/mahi-555/Mahin-21-IT24017-First-30-days-plan/tree/main/Day%2007(25-04-26)
-
+**Code:** https://github.com/Anom-27/IT-24061-First-30-Days-Plan/tree/main/Day-7%20(25-04-2026)
 **Summary:**
 
 - Learned that HashSet and TreeSet store unique elements (no duplicates).

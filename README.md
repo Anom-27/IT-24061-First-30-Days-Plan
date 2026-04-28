@@ -94,19 +94,19 @@ Summary:
 ---
 
 ## Day 06 (24-04-2026)
-***Topic:*** Using Array, LinkList && HashMap
+**Topic:** Using Array, LinkList && HashMap
 
-***Vedio:*** https://youtu.be/TDHaeHAlPFg?si=CF7edmSfZ_TTXxD0
+**Vedio:** https://youtu.be/TDHaeHAlPFg?si=CF7edmSfZ_TTXxD0
 
-***Code:*** https://github.com/mahi-555/Mahin-21-IT24017-First-30-days-plan/tree/main/Day%2005%20(23-04-26)
+**Code:** https://github.com/Anom-27/IT-24061-First-30-Days-Plan/tree/main/Day-6%20(24-04-2026)
 
-***Summary:***
+**Summary:**
 
--Learned how to use ArrayList (List) to store multiple values
--Used methods: add(), get(), remove(), set()
--Practiced loop (for-each) to print elements
--Learned HashMap (key-value pairs)
--Used methods: put(), get(), keySet()
+- Learned how to use ArrayList (List) to store multiple values
+- Used methods: add(), get(), remove(), set()
+- Practiced loop (for-each) to print elements
+- Learned HashMap (key-value pairs)
+- Used methods: put(), get(), keySet()
 
 ---
 

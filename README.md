@@ -110,3 +110,16 @@ Summary:
 
 ---
 
+## Day 07 (25-04-2026)
+**Topic:** Exploring Sets ( HashSet & TreeSet)
+
+**Vedio:** https://youtu.be/XDw-BkAZYmY?si=OstR1oZ3od7ZxjUa
+
+**Code:** https://github.com/mahi-555/Mahin-21-IT24017-First-30-days-plan/tree/main/Day%2007(25-04-26)
+
+**Summary:**
+
+- Learned that HashSet and TreeSet store unique elements (no duplicates).
+- HashSet is unordered, while TreeSet keeps elements sorted.
+- Practiced operations like add(), remove(), and contains().
+- Understood performance: HashSet is faster; TreeSet uses a tree for sorting.

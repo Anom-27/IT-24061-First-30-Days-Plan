@@ -9,6 +9,7 @@ This repository documents a 30-day learning plan focused on IT fundamentals and 
 ## Topic 
 Object Oriented Pattern & Design Lab
 
+## Java
 ---
 
 ## Day 01
@@ -23,7 +24,7 @@ https://github.com/Anom-27/IT-24061-First-30-Days-Plan/tree/main/Day-1(19-04-202
 ---
 
 ## Day 02 (20-04-2026)
-**Topic:** Modifier & Encapsulation in Java
+**Topic:** Modifier & Encapsulation
 
 **Video:** https://youtu.be/IWFzm8qlR1c?si=H5U8v8RDIWxkBxzG
 https://youtu.be/HZUUYnIZO_0?si=muTWbNSVXMumJNCf
@@ -33,7 +34,7 @@ https://youtu.be/HZUUYnIZO_0?si=muTWbNSVXMumJNCf
 ---
 
 ## Day 03 (21-04-2026)
-**Topic:** Constructor in Java
+**Topic:** Constructor
 
 **Video:** https://youtu.be/acfR5vRTZvc?si=MqKadnG8uppYrFpB
 
@@ -42,7 +43,7 @@ https://youtu.be/HZUUYnIZO_0?si=muTWbNSVXMumJNCf
 ---
 
 ## Day 04 (22-04-2026)
-**Topic:** Super Class, Subclass, Inheritance & Polymorphism
+**Topic:** Inheritance
 
 **Video:** https://youtu.be/j_VA2Rp6jM0?si=7h6M2ZXkI7RR5Ifk
 https://youtu.be/bLke13zY4rg?si=jXipMVv9pdV8r7mc
@@ -52,7 +53,7 @@ https://youtu.be/bLke13zY4rg?si=jXipMVv9pdV8r7mc
 ---
 
 ## Day 05 (23-04-2026)
-**Topic:** Using Abstraction && Inner Class
+**Topic:**  Polymorphism
 
 **Vedio:** https://youtu.be/1SXyi3DK-88?si=cnoagPnoZNdGig4S https://youtu.be/lsJ9QjJPbx8?si=G0VxAZY9m5Cmm8zQ
 
@@ -61,7 +62,7 @@ https://youtu.be/bLke13zY4rg?si=jXipMVv9pdV8r7mc
 ---
 
 ## Day 06 (24-04-2026)
-**Topic:** Using Array, LinkList && HashMap
+**Topic:** Abstraction
 
 **Vedio:** https://youtu.be/TDHaeHAlPFg?si=CF7edmSfZ_TTXxD0
 
@@ -70,7 +71,7 @@ https://youtu.be/bLke13zY4rg?si=jXipMVv9pdV8r7mc
 ---
 
 ## Day 07 (25-04-2026)
-**Topic:** Exploring Sets ( HashSet & TreeSet)
+**Topic:** Inner Classes
 
 **Vedio:** https://youtu.be/XDw-BkAZYmY?si=OstR1oZ3od7ZxjUa
 
@@ -79,7 +80,7 @@ https://youtu.be/bLke13zY4rg?si=jXipMVv9pdV8r7mc
 ---
 
 ## Day 08 (26-04-2026)
-**Topic:** 
+**Topic:** Java Collection Framework
 
 **Vedio:**
 
@@ -88,7 +89,7 @@ https://youtu.be/bLke13zY4rg?si=jXipMVv9pdV8r7mc
 ---
 
 ## Day 09 (27-04-2026)
-**Topic:** Implementation Queue
+**Topic:** ArrayList & Linked List
 
 **Vedio:** https://youtu.be/PccU1wAdnlM?si=rGfQfncpoe54JF0Z
 
@@ -97,7 +98,7 @@ https://youtu.be/bLke13zY4rg?si=jXipMVv9pdV8r7mc
 ---
 
 ## Day 10 (28-04-2026)
-**Topic:** 
+**Topic:** Hash set & Tree set
 
 **Vedio:** 
 
@@ -106,7 +107,7 @@ https://youtu.be/bLke13zY4rg?si=jXipMVv9pdV8r7mc
 ---
 
 ## Day 11 (29-04-2026)
-**Topic:** 
+**Topic:** Queues
 
 **Vedio:** 
 
@@ -115,7 +116,7 @@ https://youtu.be/bLke13zY4rg?si=jXipMVv9pdV8r7mc
 ---
 
 ## Day 12 (30-04-2026)
-**Topic:** 
+**Topic:** HashMap & TreeMap
 
 **Vedio:** 
 
@@ -124,7 +125,7 @@ https://youtu.be/bLke13zY4rg?si=jXipMVv9pdV8r7mc
 ---
 
 ## Day 13 (01-05-2026)
-**Topic:** 
+**Topic:** Using collection in real world scenario
 
 **Vedio:** 
 
@@ -133,7 +134,7 @@ https://youtu.be/bLke13zY4rg?si=jXipMVv9pdV8r7mc
 ---
 
 ## Day 14 (02-05-2026)
-**Topic:** 
+**Topic:** Introduction to Java File Handling
 
 **Vedio:** 
 
@@ -142,7 +143,7 @@ https://youtu.be/bLke13zY4rg?si=jXipMVv9pdV8r7mc
 ---
 
 ## Day 15 (03-05-2026)
-**Topic:** 
+**Topic:** Using byte streams
 
 **Vedio:** 
 
@@ -151,7 +152,7 @@ https://youtu.be/bLke13zY4rg?si=jXipMVv9pdV8r7mc
 ---
 
 ## Day 16 (04-05-2026)
-**Topic:** 
+**Topic:** Working with file input and output streams
 
 **Vedio:** 
 

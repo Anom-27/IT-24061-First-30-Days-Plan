@@ -1,27 +1,16 @@
-import java.util.HashMap;
-import java.util.HashSet;
+interface Shape {
+    void draw();
+}
 
-public class Example2 {
-    public static void main(String[] args){
-        HashSet <String> colors = new HashSet<>();
-        colors.add("Red");
-        colors.add("Green");
-        colors.add("Blue");
-        colors.add("Red");
-        System.out.println("Colors : "+ colors);
-
-        //hash map
-        HashMap<String, Integer> ageMap= new HashMap<>();
-
-        ageMap.put("Arisu", 25);
-
-        ageMap.put("Osagi", 22);
-
-        ageMap.put("Chisiya", 23);
-
-        System.out.println("Age map: "+ ageMap);
-        int RakibulAge= ageMap.get("Arisu");
-        System.out.println("Arisu is " + RakibulAge+" years old");
+class Circle implements Shape {
+    public void draw() {
+        System.out.println("Drawing Circle");
     }
+}
 
+public class Main {
+    public static void main(String[] args) {
+        Shape s = new Circle();
+        s.draw();
+    }
 }

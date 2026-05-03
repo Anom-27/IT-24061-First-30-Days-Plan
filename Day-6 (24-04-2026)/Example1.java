@@ -1,25 +1,21 @@
-import java.util.ArrayList;
-import java.util.LinkedList;
-import java.util.List;
+abstract class Animal {
+    abstract void sound();
+
+    void sleep() {
+        System.out.println("Animal is sleeping");
+    }
+}
+
+class Cat extends Animal {
+    void sound() {
+        System.out.println("Cat meows");
+    }
+}
 
 public class Example1 {
-    public static void main(String[] args){
-
-        //Creating a List
-        List<String> fruits = new ArrayList<>();
-        fruits.add("Apple");
-        fruits.add("Banana");
-        fruits.add("Cherry");
-        System.out.println("Fruits "+ fruits);
-        String firstFruit = fruits.get(0);
-        System.out.println("First Fruit " + firstFruit);
-
-        LinkedList <String> animals= new LinkedList<>();
-        animals.add("Dog");
-        animals.add("Cat");
-        animals.add("Elephant");
-
-        System.out.println("Animals: " + animals);
-
+    public static void main(String[] args) {
+        Animal a = new Cat();
+        a.sound();
+        a.sleep();
     }
 }

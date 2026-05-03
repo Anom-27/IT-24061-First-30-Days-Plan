@@ -1,44 +1,34 @@
 # Example-1
 ```java
-import java.util.LinkedList;
-import java.util.Queue;
+import java.util.ArrayList;
 
 public class Example1 {
-    public static  void main(String[] args) {
-        Queue<String> queue = new LinkedList<>();
-        queue.offer("Apple");
-        queue.offer("Banana");
-        queue.offer("Cherry");
-        System.out.println("Queue : " + queue);
+    public static void main(String[] args) {
+        ArrayList<String> list = new ArrayList<>();
+        list.add("Watermelon");
+        list.add("Lychee");
+        list.add("Guava");
 
-        // Dequeue operation
-        String removedItem = queue.poll();
-        System.out.println("Removed Item: "+ removedItem);;
-
-        //Displaying the Queue after Dequeue
-        System.out.println("Queue after dequeue: "+queue);
+        for (String item : list) {
+            System.out.println(item);
+        }
     }
 }
 ```
 # Example-2
 ```java
-import java.util.LinkedList;
-import java.util.Queue;
+import java.util.HashMap;
 
-public class Example1 {
-    public static  void main(String[] args) {
-        Queue<String> queue = new LinkedList<>();
-        queue.offer("Apple");
-        queue.offer("Banana");
-        queue.offer("Cherry");
-        System.out.println("Queue : " + queue);
+public class Example2 {
+    public static void main(String[] args) {
+        HashMap<Integer, String> map = new HashMap<>();
+        map.put(1, "Arisu");
+        map.put(2, "Usagi");
+        map.put(3, "Chisiya");
 
-        // Dequeue operation
-        String removedItem = queue.poll();
-        System.out.println("Removed Item: "+ removedItem);;
-
-        //Displaying the Queue after Dequeue
-        System.out.println("Queue after dequeue: "+queue);
+        for (Integer key : map.keySet()) {
+            System.out.println(key + " " + map.get(key));
+        }
     }
 }
 ```

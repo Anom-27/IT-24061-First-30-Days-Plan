@@ -95,3 +95,66 @@ https://youtu.be/bLke13zY4rg?si=jXipMVv9pdV8r7mc
 **Code:** https://github.com/Anom-27/IT-24061-First-30-Days-Plan/tree/main/Day-9%20(27-04-2026)
 
 ---
+
+## Day 10 (28-04-2026)
+**Topic:** 
+
+**Vedio:** 
+
+**Code:** 
+
+---
+
+## Day 11 (29-04-2026)
+**Topic:** 
+
+**Vedio:** 
+
+**Code:** 
+
+---
+
+## Day 12 (30-04-2026)
+**Topic:** 
+
+**Vedio:** 
+
+**Code:** 
+
+---
+
+## Day 13 (01-05-2026)
+**Topic:** 
+
+**Vedio:** 
+
+**Code:** 
+
+---
+
+## Day 14 (02-05-2026)
+**Topic:** 
+
+**Vedio:** 
+
+**Code:** 
+
+---
+
+## Day 15 (03-05-2026)
+**Topic:** 
+
+**Vedio:** 
+
+**Code:** 
+
+---
+
+## Day 16 (04-05-2026)
+**Topic:** 
+
+**Vedio:** 
+
+**Code:** 
+
+---

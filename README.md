@@ -144,7 +144,7 @@ Summary:
 
 **Vedio:** https://youtu.be/PccU1wAdnlM?si=rGfQfncpoe54JF0Z
 
-**Code:** https://github.com/mahi-555/Mahin-21-IT24017-First-30-days-plan/tree/main/Day-09(27-04-26)
+**Code:** https://github.com/Anom-27/IT-24061-First-30-Days-Plan/tree/main/Day-9%20(27-04-2026)
 
 **Summary:**
 

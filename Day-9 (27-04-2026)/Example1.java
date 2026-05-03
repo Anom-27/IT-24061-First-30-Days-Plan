@@ -1,19 +1,16 @@
-import java.util.LinkedList;
-import java.util.Queue;
+import java.util.ArrayList;
 
 public class Example1 {
-    public static  void main(String[] args) {
-        Queue<String> queue = new LinkedList<>();
-        queue.offer("Apple");
-        queue.offer("Banana");
-        queue.offer("Cherry");
-        System.out.println("Queue : " + queue);
+    public static void main(String[] args) {
+        ArrayList<Integer> list = new ArrayList<>();
+        list.add(1);
+        list.add(2);
+        list.add(3);
 
-        // Dequeue operation
-        String removedItem = queue.poll();
-        System.out.println("Removed Item: "+ removedItem);;
+        list.remove(3);
 
-        //Displaying the Queue after Dequeue
-        System.out.println("Queue after dequeue: "+queue);
+        for (int num : list) {
+            System.out.println(num);
+        }
     }
 }

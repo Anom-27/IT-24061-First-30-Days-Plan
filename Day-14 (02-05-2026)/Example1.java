@@ -1,16 +1,16 @@
 import java.io.File;
-import java.util.Scanner;
+import java.io.FileWriter;
+import java.io.IOException;
 
 public class Example1 {
-    public static void main(String[] args) throws Exception {
+    public static void main(String[] args) throws IOException {
         File file = new File("test.txt");
+        file.createNewFile();
 
-        Scanner sc = new Scanner(file);
+        FileWriter writer = new FileWriter(file);
+        writer.write("Hello File");
+        writer.close();
 
-        while (sc.hasNextLine()) {
-            System.out.println(sc.nextLine());
-        }
-
-        sc.close();
+        System.out.println("File created and written.");
     }
 }

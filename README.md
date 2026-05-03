@@ -123,3 +123,34 @@ Summary:
 - HashSet is unordered, while TreeSet keeps elements sorted.
 - Practiced operations like add(), remove(), and contains().
 - Understood performance: HashSet is faster; TreeSet uses a tree for sorting.
+
+---
+
+## Day 08 (26-04-2026)
+**Topic:** 
+
+**Vedio:**
+
+**Code:**
+
+**Summary:**
+
+
+
+---
+
+## Day 09 (27-04-2026)
+**Topic:** Implementation Queue
+
+**Vedio:** https://youtu.be/PccU1wAdnlM?si=rGfQfncpoe54JF0Z
+
+**Code:** https://github.com/mahi-555/Mahin-21-IT24017-First-30-days-plan/tree/main/Day-09(27-04-26)
+
+**Summary:**
+
+- Queue is a FIFO (First In First Out) data structure.
+- Elements are added using offer() method.
+- Elements are removed using poll() method.
+- peek() is used to view the front element without removing it.
+
+---

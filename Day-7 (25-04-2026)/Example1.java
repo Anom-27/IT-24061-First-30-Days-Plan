@@ -1,7 +1,7 @@
-class Outer {
+class Outer1 {
     int x = 10;
 
-    class Inner {
+    class Inner1 {
         void show() {
             System.out.println(x);
         }
@@ -10,8 +10,8 @@ class Outer {
 
 public class Example1 {
     public static void main(String[] args) {
-        Outer o = new Outer();
-        Outer.Inner i = o.new Inner();
+        Outer1 o = new Outer1();
+        Outer1.Inner1 i = o.new Inner1();
         i.show();
     }
 }

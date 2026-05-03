@@ -47,6 +47,7 @@ https://github.com/Anom-27/IT-24061-First-30-Days-Plan/tree/main/Day-1(19-04-202
 **Topic:** Inheritance
 
 **Video:** https://youtu.be/j_VA2Rp6jM0?si=_zbkzUAJFsgb_fje
+
 **Code:** https://github.com/Anom-27/IT-24061-First-30-Days-Plan/tree/main/Day-4%20(22-04-2026)
 
 ---

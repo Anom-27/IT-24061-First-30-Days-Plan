@@ -1,9 +1,28 @@
 # Example-1
 ```java
 import java.io.File;
-import java.util.Scanner;
+import java.io.FileWriter;
+import java.io.IOException;
 
 public class Example1 {
+    public static void main(String[] args) throws IOException {
+        File file = new File("test.txt");
+        file.createNewFile();
+
+        FileWriter writer = new FileWriter(file);
+        writer.write("Hello File");
+        writer.close();
+
+        System.out.println("File created and written.");
+    }
+}
+```
+# Example-2
+```java
+import java.io.File;
+import java.util.Scanner;
+
+public class Example2 {
     public static void main(String[] args) throws Exception {
         File file = new File("test.txt");
 
@@ -14,25 +33,6 @@ public class Example1 {
         }
 
         sc.close();
-    }
-}
-```
-# Example-2
-```java
-import java.io.File;
-import java.io.FileWriter;
-import java.io.IOException;
-
-public class Example2 {
-    public static void main(String[] args) throws IOException {
-        File file = new File("test.txt");
-        file.createNewFile();
-
-        FileWriter writer = new FileWriter(file);
-        writer.write("Hello File");
-        writer.close();
-
-        System.out.println("File created and written.");
     }
 }
 ```

@@ -9,8 +9,7 @@ This repository documents a 30-day learning plan focused on IT fundamentals and 
 ## Topic 
 Object Oriented Pattern & Design Lab
 
-## LAngauge
-Java
+## Langauge: **Java**
 ---
 
 ## Day 01

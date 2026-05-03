@@ -6,6 +6,8 @@ This repository documents a 30-day learning plan focused on IT fundamentals and 
 ## Start Date
 19-04-2026
 
+**Topic:** Object Oriented Pattern & Design Lab
+
 ---
 
 ## Day 01

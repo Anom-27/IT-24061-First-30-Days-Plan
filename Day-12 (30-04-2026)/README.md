@@ -2,7 +2,7 @@
 ```java
 import java.util.TreeMap;
 
-public class Example2 {
+public class Example1 {
     public static void main(String[] args) {
         TreeMap<String, Integer> map = new TreeMap<>();
         map.put("Watermelon", 3);
@@ -19,7 +19,7 @@ public class Example2 {
 ```java
 import java.util.HashMap;
 
-public class Example1 {
+public class Example2 {
     public static void main(String[] args) {
         HashMap<Integer, String> map = new HashMap<>();
         map.put(1, "A");

@@ -1,27 +1,14 @@
 import java.util.HashMap;
 
 public class Example2 {
-    public static void main(String[] args)
-    {
-        //creatng a Hashmap
-        HashMap<String,Integer> map = new HashMap<>();
+    public static void main(String[] args) {
+        HashMap<Integer, String> map = new HashMap<>();
+        map.put(1, "Arisu");
+        map.put(2, "Usagi");
+        map.put(3, "Chisiya");
 
-        map.put("Apple",1);
-        map.put("Banana",2);
-        map.put("Cherry",3);
-//        Acessing values;
-
-        System.out.println("Value for key 'Apple' : " + map.get(("Apple")));
-
-        for (String key : map.keySet())
-        {
-            System.out.println(key + ": " + map.get(key));
+        for (Integer key : map.keySet()) {
+            System.out.println(key + " " + map.get(key));
         }
-
-        if(map.containsKey("Banana")){
-            System.out.println("banana Exitsts in the map");
-        }
-        map.remove("Cherry");
     }
-
 }
